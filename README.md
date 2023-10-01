@@ -29,12 +29,15 @@ This is a simple dice game where players can roll a dice and earn points based o
    git clone https://github.com/vaibhavverma19/react-dice-game.git
 
 2. navigate the project folder
+   ```bash
    cd react-dice-game
 
 3. install dependencies
+   ```bash
    npm install
 
 4. start the development server
+   ```bash
    npm start
 
 5. Open your browser and visit http://localhost:3000 to play the game.
